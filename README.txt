@@ -1,10 +1,6 @@
 Đồ án Công nghệ phần mềm
 Đề tài: Xây dựng app du lịch ảo
-Nhóm: 9
-Sinh viên thực hiện
-18110122	Nguyễn Hoàng Huy
-18110161	Nguyễn Thu Ngân
-18110174	Võ Ngọc Phong
+Trần Phi Học
 
 Phiên bản 1.0 (23/04/2021)
 Các chức năng đã làm
